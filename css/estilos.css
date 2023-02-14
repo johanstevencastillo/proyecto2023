@@ -4,7 +4,10 @@ body{
 }
 #cabecera{
     background-color: brown;
+    font-family: Arial;
+    color: aliceblue;
 }
 #contenido{
     background-color: blue;
+
 }
